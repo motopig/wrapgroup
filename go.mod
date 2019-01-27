@@ -1,2 +1,2 @@
-module wrapgroup
+module github.com/motopig/wrapgroup
 
